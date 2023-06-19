@@ -6,7 +6,7 @@ This is a simple command-line tool that allows you to download YouTube videos an
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your-username/youtube-video-downloader.git
+git clone https://github.com/Alex19578/youtube-video-downloader.git
 
 
 2. Navigate to the project directory:
